@@ -8,4 +8,9 @@
 ## Utilização
 
 - Para criação desse site beta utilizamos HTML, CSS e Phyton 3.9 (pip).
+
+## Setup do Projeto
+
+1. Criar Virtual Env;
+
   
