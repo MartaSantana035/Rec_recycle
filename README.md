@@ -12,5 +12,26 @@
 ## Setup do Projeto
 
 1. Criar Virtual Env;
+   
+```bash
+virtualenv <env_name>
+```
 
+2. Ative o ambiente virtual criado.
+
+```bash
+source <env_name>/bin/activate
+```
+
+3. Instale as dependências.
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Rodando o projeto.
+
+```bash
+python app.py
+```
   
