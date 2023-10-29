@@ -17,10 +17,18 @@
 virtualenv <env_name>
 ```
 
-2. Ative o ambiente virtual criado.
+2. Ative o ambiente virtual criado:
+
+2.1 Linux/Mac:
 
 ```bash
 source <env_name>/bin/activate
+```
+
+2.2 Windows:
+
+```bash
+<env_name>/bin/activate
 ```
 
 3. Instale as dependências.
