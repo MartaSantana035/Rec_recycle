@@ -43,4 +43,19 @@ pip install -r requirements.txt
 python app.py
 ```
 
+## Funcionabilidades
+
+-Tela Inicial
+![telahome](https://github.com/MartaSantana035/Rec_recycle/assets/138037742/e0489315-0b19-4738-9664-5564b6cb740c)
+
+-Cadastro
+![telacadastro](https://github.com/MartaSantana035/Rec_recycle/assets/138037742/b617d76e-3a41-4e72-b480-72aaa3febff5)
+
+-Agendamento
+![telaagendamento](https://github.com/MartaSantana035/Rec_recycle/assets/138037742/633994a3-5ecb-4cd8-b8dc-7caea6e89a9a)
+
+-Localização de Descarte
+![teladescarte](https://github.com/MartaSantana035/Rec_recycle/assets/138037742/6d41bd4e-fa8f-424a-af02-a549b50a5cf3)
+
+
 
